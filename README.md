@@ -44,7 +44,7 @@ For every snap $i$ in a game, the script tracks the losing team's pre-snap win p
 
 * **Choke Index (0–200 Scale):** Combines full-game dominance with late-game collapse velocity:
 
-  $$\text{Choke Index} = \text{Active-Time Mean} \times \left(1 + \frac{\text{Collapse}_{5\text{m}}}{100}\right)$$
+$$\text{Choke Index} = \text{Active-Time Mean} \times \left(1 + \frac{\text{Collapse}_{5m}}{100}\right)$$
 
 ---
 
